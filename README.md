@@ -90,6 +90,7 @@ The mmi_pd tool suite is a public-domain version  of [Micromagic](https://www.mi
 Please follow us to have informed about related projects
 
 [YARPOSE Project](https://github.com/yarpose) - A Dejavu project in EDA
+
 [M. B. Ghaznavi-Ghoushchi](https://github.com/ghoushchi)
 
 
