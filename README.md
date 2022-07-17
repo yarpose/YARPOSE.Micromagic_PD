@@ -74,7 +74,6 @@ nst
 
 Note: If you see problems in max/nst due to fonts (with un-readable fonts or extra font sizes), you must recheck the fonts installation step again with care.
 
-Fe
 
 ![AIO](media/out.gif)
 
