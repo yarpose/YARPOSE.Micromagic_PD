@@ -1,4 +1,4 @@
-# Revitalizing Legendary Public-Domain Version of Micromagic
+# Revitalizing Public-Domain Version of Micromagic
 
 By [M. B. Ghaznavi-Ghoushchi](https://github.com/ghoushchi).
 
