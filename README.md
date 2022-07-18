@@ -83,7 +83,7 @@ Note: If you see problems in max/nst due to fonts (with un-readable fonts or ext
 ### You will see more about focused usage of this tool with examples... very soon.
 ### A 2X4 Decoder in micromagic
 ![DECODER2x4](media/2x4-decoder.gif)
-### Example 1: A 2X4 Decoder in micromagic with very details and steps from my VLSI 2006 PPT #22 ![VVLSI-SHD-22](https://github.com/yarposer/YARPOSE.Micromagic_PD/media/VVLSI-SHD-22.ppt)
+### Example 1: A 2X4 Decoder in micromagic with very details and steps from my VLSI 2006 PPT #22 ![VVLSI-SHD-22](https://github.com/yarposer/YARPOSE.Micromagic_PD/media/VLSI-SHD-22.ppt)
 
 ![DECODER2x4-AIO](media/VLSI-SHD-22.gif)
 
