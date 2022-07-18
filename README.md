@@ -26,7 +26,8 @@ sudo apt-get install multiarch-support
 sudo apt-get install libx11-6:i386
 sudo apt-get install libc6-i386
 sudo apt-get install binutils:i386
-sudo apt install zsh
+sudo apt-get install zsh
+sudo apt-get install csh
 ```
 ### 2.2 Installing fonts for max/nst 
 ```bash
