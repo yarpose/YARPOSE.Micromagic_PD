@@ -99,10 +99,10 @@ Please follow us to have informed about related projects
 
 <p>
   <a href="https://www.linkedin.com/in/ghaznavi-ghoushchi" rel="nofollow noreferrer">
-    <img src="media/LI.png" alt="linkedin"> LinkedIn
+    <img src="media/LI.png" alt="linkedin"> M. B. Ghaznavi-Ghoushchi
   </a> &nbsp; 
   <a href="https://github.com/ghoushchi" rel="nofollow noreferrer">
-    <img src="media/GH.png" alt="github"> Github
+    <img src="media/GH.png" alt="github"> ghoushchi
   </a>
 </p>
 
