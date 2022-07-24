@@ -91,7 +91,7 @@ Note: If you see problems in max/nst due to fonts (with un-readable fonts or ext
 The mmi_pd tool suite is a public-domain version  of [Micromagic](https://www.micromagic.com). All the credits are belong to its originators.
 
 # Related Projects
-Please follow us to have informed about related projects:
+Please follow us to be informed about related projects:
 
 
 <p>
